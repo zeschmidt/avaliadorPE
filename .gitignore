@@ -1,0 +1,7 @@
+
+/.env
+/log/*
+/tmp/*
+/node_modules
+/public/assets
+.byebug_history
